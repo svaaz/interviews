@@ -9,7 +9,7 @@ STinit(maxN);
 for (i = 0; i < N; i++) STinsert(fetext [i]); 
 while (gets(query) != NULL) 
 if (!null(v = STsearch(query))) 
-printf ("7,1 Id °/.s\n", v-text, query); 
-else printf ("(not found) °/,s\n" , query); 
+printf ("7,1 Id Â°/.s\n", v-text, query); 
+else printf ("(not found) Â°/,s\n" , query); 
 } 
 
